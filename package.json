@@ -1,0 +1,13 @@
+{
+  "name": "login-api",
+  "version": "1.0.0",
+  "description": "Simple login API for testing with Postman",
+  "main": "login-server.js",
+  "scripts": {
+    "start": "node login-server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.2"
+  }
+}
